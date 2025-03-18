@@ -42,3 +42,14 @@
 
 **pront2**：創作一張圖：「以寫實的風格呈現的河邊景象，水面倒映著天空。
 
+<img width="364" alt="image" src="https://github.com/user-attachments/assets/0c145375-eedd-46a1-8e90-bc380832e1a5" />
+
+### Lab6: 表現主義肖像
+**pront1**：創作一張圖：「一個情緒激動的人物肖像，使用鮮明的對比色彩和誇張的面部表情，靈感來自蒙克。」
+
+<img width="360" alt="image" src="https://github.com/user-attachments/assets/e7d3a595-48a8-47e0-8dc7-c8271ac1a66c" />
+
+**pront2**：創作一張圖：「一個情緒激動的人物肖像，使用低對比色彩和樸素的面部表情，靈感來自蒙克。」
+
+<img width="365" alt="image" src="https://github.com/user-attachments/assets/94a0fed1-79cf-451a-9569-c492e69477c5" />
+
