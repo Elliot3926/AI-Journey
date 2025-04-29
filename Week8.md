@@ -1,16 +1,14 @@
-# AI on Music? 
-## 應用：音樂數據分析，例如識別音樂類型或藝術家流行趨勢; 分析音樂的結構、模式或情感反應; 研究音樂對人類行為的影響或相反。
-
-### ✅ What Is Machine Learning?
+# AI on Music? 應用
+### Machine Learning
 
 一種讓電腦**根據資料學習規則並進行預測或決策的技術**
 包括：
-監督式學習（Supervised Learning）：有正確答案的資料（如情緒標籤）
-非監督式學習（Unsupervised Learning）：找出資料中的隱藏結構（如聚類）
+監督式學習（Supervised Learning）：有正確答案的資料
+非監督式學習（Unsupervised Learning）：找出資料中的隱藏結構
 生活應用：臉部辨識、語音助理、垃圾郵件分類、Netflix 推薦系統等
 
 
-### 🧠 Machine Learning: 經典七大方法？
+### Machine Learning: 七方法
 在 AI 的世界中，這些方法是建立許多現代應用（如影像辨識、語音辨識、醫療診斷、推薦系統）的「地基」。無論是進階模型（如深度學習）或 AutoML，它們的核心邏輯都與這些方法有密切關聯。
 #### 1. 線性回歸（像是「畫一條趨勢線」）
 > 「如果廣告預算增加，銷售量會怎麼變？」→ 當資料呈現線性關係，線性回歸能找到那條最佳趨勢線。
@@ -32,9 +30,4 @@
 #### 7. K-Means 分群（找同類型的群體）
 > 「將顧客按照消費行為自動分類」→ 沒有標籤的資料，K-Means 根據距離分出 K 群。
 
-2.https://suno.com/song/535f84b0-934f-46ab-8215-b9123db197d6?sh=2ZVz7gb0CJ5uTuo6
-主題:史努比卡通
-
-3.https://suno.com/song/024a5ec2-fc4e-402f-b75c-12046a1e2760?sh=7sLv3EUF4WIay0mB
-主題:史努比卡通
 
